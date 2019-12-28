@@ -1,7 +1,7 @@
 package mt940_parser
 
 import (
-	. "github.com/shirley981128/file_parser/common_parser"
+	. "github.com/shirley981128/swift_file_parser/file_parser/common_parser"
 	"log"
 	"strings"
 )
