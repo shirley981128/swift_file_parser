@@ -3,8 +3,8 @@ package file_parser
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/shirley981128/file_parser/mt940_parser"
-	"github.com/shirley981128/file_parser/mt942_parser"
+	"github.com/shirley981128/swift_file_parser/file_parser/mt940_parser"
+	"github.com/shirley981128/swift_file_parser/file_parser/mt942_parser"
 	"io/ioutil"
 	"strings"
 	"testing"
